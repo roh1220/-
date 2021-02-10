@@ -1,0 +1,14 @@
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\bin\Debug\미니프로젝트 2.0 (칼라영상처리).exe.config
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\bin\Debug\미니프로젝트 2.0 (칼라영상처리).exe
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\bin\Debug\미니프로젝트 2.0 (칼라영상처리).pdb
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트 2.0 (칼라영상처리).csprojAssemblyReference.cache
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트_2._0__칼라영상처리_.Form1.resources
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트_2._0__칼라영상처리_.Properties.Resources.resources
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트 2.0 (칼라영상처리).csproj.GenerateResource.cache
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트 2.0 (칼라영상처리).csproj.CoreCompileInputs.cache
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트 2.0 (칼라영상처리).exe
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트 2.0 (칼라영상처리).pdb
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트_2._0__칼라영상처리_.subForm1.resources
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트_2._0__칼라영상처리_.subForm2.resources
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트_2._0__칼라영상처리_.GraphicForm.resources
+C:\ROHYEUNHEE_C\Mission015\미니프로젝트 2.0 (칼라영상처리)\obj\Debug\미니프로젝트_2._0__칼라영상처리_.SplashForm.resources
